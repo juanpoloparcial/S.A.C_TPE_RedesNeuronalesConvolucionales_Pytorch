@@ -1,2 +1,3 @@
-﻿# cnn-mlp-pytorch-Stóck_Juan
+﻿# cnn-mlp-pytorch-Stöck_Juan
+
 
